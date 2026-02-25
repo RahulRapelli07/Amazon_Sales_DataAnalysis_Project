@@ -1,5 +1,6 @@
 # Amazon_Sales_DataAnalysis_Project
 📊 Amazon Sales Data Analytics Project – End-to-End Analysis & Visualization
+
 📌 Overview
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data loading to actionable business insights. The project uses Python for data analysis, Excel for quick inspection and cleaning, and Power BI for interactive dashboarding, followed by a summary report and a presentation created using Gamma.
