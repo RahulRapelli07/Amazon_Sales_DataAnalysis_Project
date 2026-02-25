@@ -9,11 +9,11 @@ The goal of this project is to showcase practical data analytics skills, tools, 
 
 📁 Dataset
 
-The dataset contains structured business data used for analysis and visualization.
+- The dataset contains structured business data used for analysis and visualization.
 
-Data includes key metrics such as performance indicators, categories, and numerical values.
+- Data includes key metrics such as performance indicators, categories, and numerical values.
 
-The dataset was initially explored in Excel for quick validation and later processed using Python.
+- The dataset was initially explored in Excel for quick validation and later processed using Python.
 
 
 🛠️ Tools & Technologies
@@ -32,69 +32,69 @@ Jupyter Notebook  – Development environment
 
 🔄 Project Steps
 
-Data Loading
+Data Loading  :
 
-Imported raw dataset into Python using Pandas
+- Imported raw dataset into Python using Pandas
 
-Verified schema, data types, and structure
+- Verified schema, data types, and structure
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Analyzed distributions, trends, and outliers
+- Analyzed distributions, trends, and outliers
 
-Identified missing values and inconsistencies
+- Identified missing values and inconsistencies
 
-Generated summary statistics and visualizations
+- Generated summary statistics and visualizations
 
-Data Cleaning
+Data Cleaning :
 
-Handled missing values and duplicates
+- Handled missing values and duplicates
 
-Corrected data types and formatting issues
+- Corrected data types and formatting issues
 
-Used Excel for quick filtering and validation
+- Used Excel for quick filtering and validation
 
-Final cleaned dataset prepared for visualization
+- Final cleaned dataset prepared for visualization
 
-Data Export
+Data Export :
 
-Cleaned dataset exported for Power BI integration
+- Cleaned dataset exported for Power BI integration
 
-Dashboard Development
+Dashboard Development :
 
-Built an interactive Power BI dashboard
+- Built an interactive Power BI dashboard
 
-Added KPIs, charts, filters, and slicers
+- Added KPIs, charts, filters, and slicers
 
-Focused on clarity and business insights
+- Focused on clarity and business insights
 
-Reporting & Presentation
+Reporting & Presentation :
 
-Created a concise analysis report
+- Created a concise analysis report
 
-Designed a professional PPT using Gamma for storytelling
+- Designed a professional PPT using Gamma for storytelling
 
 📊 Dashboard
 
 The Power BI dashboard provides:
 
-Key performance indicators (KPIs)
+- Key performance indicators (KPIs)
 
-Trend analysis and category-wise insights
+- Trend analysis and category-wise insights
 
-Interactive filters for dynamic exploration
+- Interactive filters for dynamic exploration
 
-Clean and professional layout for stakeholders
+- Clean and professional layout for stakeholders
 
 <img width="1416" height="799" alt="image" src="https://github.com/user-attachments/assets/9057eedf-4fe0-4ed0-a13c-7aa2c8ec24c3" />
 
 
 📈 Results & Insights
 
-Identified key trends and patterns in the data
+- Identified key trends and patterns in the data
 
-Highlighted areas of improvement and opportunities
+- Highlighted areas of improvement and opportunities
 
-Delivered data-driven insights through visuals and summaries
+- Delivered data-driven insights through visuals and summaries
 
-Enabled easy decision-making using interactive dashboards
+- Enabled easy decision-making using interactive dashboards
